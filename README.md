@@ -5,7 +5,7 @@ Built using C# and the Xamarin framework inside of Visual Studio Community 2017.
 
 ## Setup
 ```
-1. Install Visual Studio community for Mac.
+1. Install Visual Studio.
 ```
 ```
 2. Use this tutorial
